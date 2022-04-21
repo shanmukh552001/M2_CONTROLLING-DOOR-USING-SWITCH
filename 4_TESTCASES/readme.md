@@ -7,3 +7,8 @@
    * ON CONDITION
  
    ![Screenshot (481)](https://user-images.githubusercontent.com/102905328/164490252-14f7f02c-5bab-44a2-b637-830137dd47f1.png)
+
+
+# OBJECTIVES
+   * When any person enters the LED will glow and door will automatically open
+   * In other case the will be closed
