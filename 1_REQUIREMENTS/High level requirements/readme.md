@@ -6,6 +6,6 @@
      
 #   HARDWARE
      * Atmega328 microcontroller
-     * LEDS
-     * VOLTMETERS
+     * LED
+     * VOLTMETER
     
