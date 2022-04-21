@@ -25,3 +25,14 @@
    * Circuit diagram
      
       ![sd](https://user-images.githubusercontent.com/102905328/164473479-a5707b3f-8881-44ca-bd2a-49977f4aad98.jpeg)
+
+# Componenets requried
+   
+   * Atmega238 microcontroller
+   * LEDS
+   * Proximity sensor
+   * SimuleIDE 
+   * Atmel Studio
+   * Voltmeter
+     
+       
