@@ -20,3 +20,8 @@
   * Transition diagram
   
      ![td](https://user-images.githubusercontent.com/102905328/164472971-59899d75-3a42-4add-9b41-892854283021.jpeg)
+
+
+   * Circuit diagram
+     
+      ![sd](https://user-images.githubusercontent.com/102905328/164473479-a5707b3f-8881-44ca-bd2a-49977f4aad98.jpeg)
