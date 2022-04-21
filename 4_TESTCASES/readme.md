@@ -1,3 +1,7 @@
+# CODE
+   ![Screenshot (484)](https://user-images.githubusercontent.com/102905328/164496831-63458474-4cb4-4e32-9672-fb47ad126058.png)
+
+
 # OUTPUTS
    * OFF CONDITION
   
