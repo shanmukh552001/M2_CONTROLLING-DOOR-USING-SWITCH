@@ -7,6 +7,6 @@
  room itself.
  
  Atmega228 microcontroller plays a crucial role in projet.The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family (later Microchip 
- Technology acquired Atmel in 2016). It has a modified Harvard architecture 8-bit RISC processor core.ATmega328 is commonly used in many projects and autonomous systems  
+ Technology acquired Atmel in 2016). It has a modified Harvard architecture 8-bit RISC processor core.ATmega328 is commonly used in many projects and autonomous systems
  where a simple, low-powered, low-cost micro-controller is needed. Perhaps the most common implementation of this chip is on the popular Arduino development platform,    
  namely the Arduino Uno, Arduino Pro Mini and Arduino Nano models.                                                    
