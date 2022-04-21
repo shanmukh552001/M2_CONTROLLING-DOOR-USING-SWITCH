@@ -11,4 +11,4 @@
 
 # OBJECTIVES
    * When any person enters the LED will glow and door will automatically open
-   * In other case the will be closed
+   * In other case the door  will be closed
