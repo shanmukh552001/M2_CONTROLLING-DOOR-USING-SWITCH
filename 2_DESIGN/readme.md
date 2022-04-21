@@ -16,4 +16,7 @@
 ![td](https://user-images.githubusercontent.com/102905328/164468952-85cb9211-886f-440f-bf8d-a95a429a1d86.jpeg)
 
 
+ # Schematic diagram
  
+ 
+![sd](https://user-images.githubusercontent.com/102905328/164469282-0fd99d65-3e73-4b03-a911-96ab2f5cfe95.jpeg)
