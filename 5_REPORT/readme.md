@@ -46,3 +46,7 @@
 
 # Where:
   It is flexible to owners.      
+
+# Strength
+   * TYPE OF ALERT WE GET ONCE THYE DOOR OPENS.
+   * WE CAN CHOOSE ALARAM OR LED TO ACTIVATE.
