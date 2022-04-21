@@ -13,6 +13,7 @@
 # Transition diagram
 
 
-![td](https://user-images.githubusercontent.com/102905328/164468824-6ce6ecf8-883c-410f-89ed-deee123ed3dd.jpeg
+![td](https://user-images.githubusercontent.com/102905328/164468952-85cb9211-886f-440f-bf8d-a95a429a1d86.jpeg)
+
 
  
