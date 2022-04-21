@@ -47,6 +47,10 @@
 # Where:
   It is flexible to owners.      
 
-# Strength
+# Strength:
    * TYPE OF ALERT WE GET ONCE THYE DOOR OPENS.
    * WE CAN CHOOSE ALARAM OR LED TO ACTIVATE.
+   
+# Threats
+   * Data may be hacked without secured network
+   * Voltmeter should be handled carefully otherwie it leads to short circuit
