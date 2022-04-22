@@ -3,6 +3,7 @@
   
  # Code quality score  ![Code quality score](https://api.codiga.io/project/33027/score/svg)
  # Code grade ![Code grade](https://api.codiga.io/project/33027/status/svg)
+ # Build on LINUX  [![Build-Linux](https://github.com/shanmukh552001/M2_CONTROLLING-DOOR-USING-SWITCH/actions/workflows/built%20on%20linux.yml/badge.svg)](https://github.com/shanmukh552001/M2_CONTROLLING-DOOR-USING-SWITCH/actions/workflows/built%20on%20linux.yml)
  
  
  # ON CONDITION
