@@ -1,13 +1,4 @@
-/**
- * @file Door Sensor_operations.h
- * @author Pradeep (180040583ece@gmail.com)
- * @brief Header file for Door Sensor
- * @version 0.1
- * @date 2022-03-28
- * 
- * @copyright Copyright (c) 2022
- * 
- */
+
  
 #include <avr/io.h>
 int main(void)
