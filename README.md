@@ -3,3 +3,11 @@
   
  # Code quality score  ![Code quality score](https://api.codiga.io/project/33027/score/svg)
  # Code grade ![Code grade](https://api.codiga.io/project/33027/status/svg)
+ 
+ 
+ # ON CONDITION
+  
+   ![Screenshot (481)](https://user-images.githubusercontent.com/102905328/164712587-cafd775c-4803-4b53-a932-43ad71477b47.png)
+
+ # OFF CONDITION
+   ![Screenshot (482)](https://user-images.githubusercontent.com/102905328/164712723-d91bc831-5781-474e-a418-bfeadb9cf3a2.png)
